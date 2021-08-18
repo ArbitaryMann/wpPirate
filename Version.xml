@@ -1,0 +1,2 @@
+<xs:element name="api_version" type="xs:string"/>
+<api_version>1.0</api_version>
